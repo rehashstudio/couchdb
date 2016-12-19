@@ -28,7 +28,7 @@ DepDescs = [
 %% keep these sorted
 {b64url,           "b64url",           "6895652d80f95cdf04efb14625abed868998f174"},
 {couch_log,        "couch-log",        "ad803f66dbd1900b67543259142875a6d03503ce"},
-{chttpd, {url, "https://github.com/rehashstudio/couchdb-chttpd.git"}, "b916a8b1574a16812b5b66cf719e64f80cdf9905"},
+{chttpd, {url, "https://github.com/rehashstudio/couchdb-chttpd.git"}, "d31f5f8bb4189ef42bbc23b51e17c92fcf1b0141"},
 {couch,            "couch",            "7d0cfb5f9d1f0fcdc607b46f31ae33cbf65115df"},
 {couch_index,      "couch-index",      "53555fd909d5dd3d4a610c3fd6795950a8f7d022"},
 {couch_mrview,     "couch-mrview",     "a0b0392afe66ece9ef3bb4fdd5a4f159c97c47eb"},
